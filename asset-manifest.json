@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tirumala43/react_applications/static/css/main.94095fcb.css",
+    "main.js": "/tirumala43/react_applications/static/js/main.a4ff84df.js",
+    "index.html": "/tirumala43/react_applications/index.html",
+    "main.94095fcb.css.map": "/tirumala43/react_applications/static/css/main.94095fcb.css.map",
+    "main.a4ff84df.js.map": "/tirumala43/react_applications/static/js/main.a4ff84df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94095fcb.css",
+    "static/js/main.a4ff84df.js"
+  ]
+}
